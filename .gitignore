@@ -1,2 +1,4 @@
 node_modules
 config/config.env
+-data
+seeders.js

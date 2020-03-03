@@ -1,0 +1,72 @@
+[debug] [2020-03-02T10:14:20.762Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T10:14:20.766Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Saif Rehman\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-03-02T10:14:20.766Z] CLI Version:   7.6.1
+[debug] [2020-03-02T10:14:20.766Z] Platform:      win32
+[debug] [2020-03-02T10:14:20.766Z] Node Version:  v10.16.0
+[debug] [2020-03-02T10:14:20.779Z] Time:          Mon Mar 02 2020 15:14:20 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-03-02T10:14:20.779Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T10:14:20.779Z] 
+[debug] [2020-03-02T10:14:20.814Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-02T10:14:20.815Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using resume-4b79d.
+[debug] [2020-03-02T10:14:26.347Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-03-02T10:14:26.347Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-03-02T10:14:26.699Z] <<< HTTP RESPONSE 200
+[debug] [2020-03-02T10:14:26.718Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/resume-4b79d  
+ 
+[debug] [2020-03-02T10:14:27.434Z] <<< HTTP RESPONSE 200
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2020-03-02T10:14:40.929Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T10:14:40.932Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Saif Rehman\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-03-02T10:14:40.932Z] CLI Version:   7.6.1
+[debug] [2020-03-02T10:14:40.932Z] Platform:      win32
+[debug] [2020-03-02T10:14:40.932Z] Node Version:  v10.16.0
+[debug] [2020-03-02T10:14:40.933Z] Time:          Mon Mar 02 2020 15:14:40 GMT+0500 (Pakistan Standard Time)
+[debug] [2020-03-02T10:14:40.933Z] ----------------------------------------------------------------------
+[debug] [2020-03-02T10:14:40.933Z] 
+[debug] [2020-03-02T10:14:40.944Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-03-02T10:14:40.945Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
